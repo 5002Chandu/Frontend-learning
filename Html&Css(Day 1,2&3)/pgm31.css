@@ -1,0 +1,26 @@
+h1{
+    h1{
+        text-align: center;
+    }
+    color:rgba(3, 36, 9, 0.63);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-right:teal;
+    border-left: teal;
+    border-top: teal;
+    border-bottom:teal;
+    border-width: thick;
+}
+div {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color:rgb(141, 12, 94);
+    line-height: 1.8;
+    font-weight: 600;
+    font-style: oblique;
+}
+button {
+    background-color:rgb(62, 133, 91);
+    color:black;
+    font-size: x-large;
+
+}
